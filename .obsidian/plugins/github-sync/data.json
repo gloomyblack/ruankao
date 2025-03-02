@@ -1,6 +1,6 @@
 {
   "remoteURL": "https://github.com/gloomyblack/ruankao.git",
   "gitLocation": "",
-  "syncinterval": 10,
+  "syncinterval": 0,
   "isSyncOnLoad": false
 }
