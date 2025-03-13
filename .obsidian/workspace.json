@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "质量管理/4. 控制质量.md",
+                "file": "项目资源管理/2. 规划资源管理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. 控制质量"
+              "title": "2. 规划资源管理"
             }
           }
         ],
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "质量管理/4. 控制质量.md",
+                "file": "项目资源管理/2. 规划资源管理.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "4. 控制质量 的大纲"
+              "title": "2. 规划资源管理 的大纲"
             }
           },
           {
@@ -200,8 +200,10 @@
   },
   "active": "0b71094c6211f98a",
   "lastOpenFiles": [
-    "质量管理/2. 规划质量管理.md",
     "质量管理/4. 控制质量.md",
+    "项目资源管理/2. 规划资源管理.md",
+    "项目资源管理",
+    "质量管理/2. 规划质量管理.md",
     "质量管理/3. 管理质量.md",
     "质量管理/1. 管理基础.md",
     "项目进度管理/2. 规划进度管理.md",
@@ -228,7 +230,6 @@
     "项目整合管理/1. 管理基础.md",
     "项目整合管理/3. 制订项目管理计划.md",
     "().md",
-    "范围管理计划.md",
     "项目范围管理",
     "项目整合管理"
   ]
