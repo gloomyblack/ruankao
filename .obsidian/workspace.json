@@ -34,9 +34,45 @@
               "icon": "lucide-file",
               "title": "3. 识别风险"
             }
+          },
+          {
+            "id": "7089e8f67b54474d",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "项目风险管理/Pasted image 20250327215607.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250327215607"
+            }
+          },
+          {
+            "id": "fc76d9de1d40216d",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "项目风险管理/Pasted image 20250327215607.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250327215607"
+            }
+          },
+          {
+            "id": "1d279bfbf697a217",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "项目风险管理/Pasted image 20250327215734.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250327215734"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -124,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目风险管理/3. 识别风险.md",
+                "file": "项目风险管理/Pasted image 20250327215734.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "3. 识别风险 的大纲"
+              "title": "Pasted image 20250327215734 的大纲"
             }
           },
           {
@@ -184,10 +220,16 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "fa8ba2eb02fc14d0",
+  "active": "1d279bfbf697a217",
   "lastOpenFiles": [
-    "项目风险管理/2. 规划风险管理.md",
+    "项目风险管理/Pasted image 20250327215607.png",
+    "项目风险管理/5. 规划风险应对.md",
+    "项目风险管理/Pasted image 20250327215734.png",
+    "项目风险管理/Pasted image 20250327215224.png",
+    "Pasted image 20250327215459.png",
+    "4. 实施定性风险分析.md",
     "项目风险管理/3. 识别风险.md",
+    "项目风险管理/2. 规划风险管理.md",
     "项目风险管理",
     "项目沟通管理/2. 规划沟通管理.md",
     "项目沟通管理/3. 管理沟通.md",
@@ -211,9 +253,6 @@
     "项目范围管理/6. 确认范围.md",
     "项目范围管理/7. 控制范围.md",
     "项目整合管理/4. 指导和管理项目工作.md",
-    "项目整合管理/3. 制订项目管理计划.md",
-    "项目整合管理/2. 制定项目章程.md",
-    "项目整合管理/1. 管理基础.md",
     "项目资源管理",
     "项目质量管理",
     "未命名.canvas",
