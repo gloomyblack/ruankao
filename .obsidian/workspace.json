@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "2. 规划风险管理"
             }
+          },
+          {
+            "id": "24af0264eb3b315b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +53,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -108,10 +122,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "质量管理/2. 规划质量管理.md"
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2. 规划质量管理 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -165,7 +181,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "c59f5a1a2fba8b5a",
+  "active": "24af0264eb3b315b",
   "lastOpenFiles": [
     "质量管理/3. 管理质量.md",
     "项目资源管理/2. 规划资源管理.md",
