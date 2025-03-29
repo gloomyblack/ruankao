@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. 实施定性风险分析.md",
+                "file": "项目风险管理/4. 实施定性风险分析.md",
                 "mode": "source",
                 "source": false
               },
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. 实施定性风险分析.md",
+                "file": "项目风险管理/4. 实施定性风险分析.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -213,10 +213,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "67db7168c0b6f8e6",
+  "active": "651d0a5ab190a3d3",
   "lastOpenFiles": [
     "项目风险管理/3. 识别风险.md",
-    "4. 实施定性风险分析.md",
+    "项目风险管理/4. 实施定性风险分析.md",
     "项目风险管理/2. 规划风险管理.md",
     "项目风险管理/1.  管理基础.md",
     "质量管理/3. 管理质量.md",
